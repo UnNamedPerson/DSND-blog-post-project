@@ -1,6 +1,6 @@
 # DSND-blog-post-project
 
-The goal for this project is to study the following questions for the US medical equipment data:
+The goal for this project is to study the following questions for the Stack overflow developer survey data:
 
 Questions:
 
