@@ -27,3 +27,10 @@ sklearn.preprocessing
 sklearn.tree
 sklearn.model_selection
 sklearn.metrics
+
+
+Check the following link for more details about my work on this project:
+https://medium.com/@unamedpersonemail/analysis-and-work-on-the-stack-overflow-annual-developer-survey-a1d8b12143da
+
+In this project, the all the data sets that were used are in the following link:
+https://survey.stackoverflow.co/
