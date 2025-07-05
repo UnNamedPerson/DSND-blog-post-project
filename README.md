@@ -34,3 +34,8 @@ https://medium.com/@unamedpersonemail/analysis-and-work-on-the-stack-overflow-an
 
 In this project, the all the data sets that were used are in the following link:
 https://survey.stackoverflow.co/
+
+Files in this project: 
+"Main.ipynp" file has the main python code for the project. 
+"survey_results_public 22.csv" has the main data set used in this project
+"readme" the normal readme file. 
