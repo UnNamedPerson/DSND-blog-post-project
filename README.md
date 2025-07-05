@@ -37,5 +37,5 @@ https://survey.stackoverflow.co/
 
 Files in this project: 
 "Main.ipynp" file has the main python code for the project. 
-"survey_results_public 22.csv" has the main data set used in this project
-"readme" the normal readme file. 
+"22 survey data.zip" has the main data set used in this project
+"readme.md" the normal readme file. 
