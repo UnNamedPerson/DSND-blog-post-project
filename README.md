@@ -17,3 +17,13 @@ The data source for this project is the "Stack Overflow Annual Developer Survey"
 To acheive this, I'll check what coloumns are common between the '22' and the '23' survey results. Then, the model, once selected based on data understanding, will be trained on the '22' data and then tested on the '23' data.
 
 initial comparison between the two years was done to see which columns were common, there are 63 common coloumns. Of coures, any coloumns that are dropped here for the '22' data in the coures of the data cleaning and preperation would also be dropped in the '23' data to ensure correct measure of the model accuracy that would be based on factors other than the data (i.e., hyber parameters adjustments).
+
+The following libraries were used in this project:
+pandas 
+numpy 
+matplotlib.pyplot 
+seaborn
+sklearn.preprocessing
+sklearn.tree
+sklearn.model_selection
+sklearn.metrics
